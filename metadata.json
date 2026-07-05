@@ -1,0 +1,6 @@
+{
+  "name": "Fasttrack Career Launchers",
+  "description": "Identify career paths based on Indian educational background, explore global job opportunities, and perform personalized skill gap analyses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
